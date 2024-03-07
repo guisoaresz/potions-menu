@@ -1,0 +1,7 @@
+name: PotionsMenu
+version: 1.0
+main: com.gsoares.pocoes.Main
+author: [guisoaresz]
+depend: [Vault]
+commands:
+  pocoes:
