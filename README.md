@@ -1,20 +1,20 @@
-<h1> "Potions Menu" </h1> <br/>
+<h1> Potions Menu </h1> <br/>
 Versão do Plugin: 1.0 BETA <br/>
 Versão do Servidor: 1.8.x (todas versões 1.8) <br/> <br/>
 
-Funcionalidade <br/>
+<h2> Funcionalidade </h2> <br/>
 ➥ Facilitar a criação de poções por um inventário customizado <br/> <br/>
 
-Características: <br/>
+<h2> Características: </h2> <br/>
 ➥ Inventário para a compra dos ingredientes e a fabricação de poções. <br/>
 ➥ Ingredientes com valores customizáveis via config.yml. <br/> <br/>
 
-Comandos: <br/>
+<h2> Comandos: </h2> <br/>
 ➥ /pocoes: Abre o menu de compra e fabricação. <br/> <br/>
 
-Permissões: <br/>
+<h2> Permissões: </h2> <br/>
 ➥ pocoes.usar: Acesso ao menu de compra e fabricação. <br/> <br/>
 
-Dependências: <br/>
+<h2>Dependências: </h2> <br/>
 ➥ Vault <br/>
 Link para download: https://dev.bukkit.org/projects/vault/files/894359.
