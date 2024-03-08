@@ -1,4 +1,4 @@
-<h1> "Potions Menu" <h1> <br/>
+<h1> "Potions Menu" </h1> <br/>
 Versão do Plugin: 1.0 BETA <br/>
 Versão do Servidor: 1.8.x (todas versões 1.8) <br/> <br/>
 
